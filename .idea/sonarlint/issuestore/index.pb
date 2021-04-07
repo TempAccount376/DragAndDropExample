@@ -1,0 +1,23 @@
+
+p
+@app/src/main/java/com/example/myapplication/StartDragListener.kt,f/4/f48fb032ea0a2eea32b38c360c02921e3a4a172b
+c
+3app/src/main/java/com/example/myapplication/Info.kt,4/7/472d18199af4c8fd49ccb1ccd739140cd32e8464
+r
+Bapp/src/main/java/com/example/myapplication/RecyclerViewAdapter.kt,f/3/f3640811b406e7c325239d403464d7d1acfe6606
+o
+?app/src/main/java/com/example/myapplication/ItemMoveCallback.kt,d/4/d483fcf0caccf0ab28133c4fc0448053432e3ff4
+s
+Capp/src/main/java/com/example/myapplication/ui/main/ListFragment.kt,1/f/1f3bce8e3ddcc7d14efd5ee561345877e8e8a802
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+{
+Kapp/src/main/java/com/example/myapplication/ui/main/SectionsPagerAdapter.kt,f/a/faa38932ab7fc8fe6d77e787cb02eede574f2e57
+k
+;app/src/main/java/com/example/myapplication/MainActivity.kt,0/0/00ed33bb9fa3f2577abe71150520b83c93b6af18
+s
+Capp/src/main/java/com/example/myapplication/ui/main/GridFragment.kt,6/9/69df11fd1fb90541206c8dea73c14f5ac2730312
+r
+Bapp/src/main/java/com/example/myapplication/GridSpaceDecoration.kt,6/4/6456bda11d5d8a70b703d706b1041a3156792c5b
